@@ -5,9 +5,9 @@ import java.util.Arrays;
 	public class DifferenceArrayArrayList {
 		
 		public static void main(String[] args) {
-			// an array size cannot be modified
+			//  in an Array size cannot be modified
 			String [] housePetArray = {"Cat", "Dog", "Bird", "Hamster"}; 
-			// an array will print the memory location of the array
+			// an Array will print the memory location of the array
 			System.out.println(housePetArray);
 			// an ArrayList size can be modified
 			ArrayList<String> housePetArrayList = 
